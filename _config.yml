@@ -7,16 +7,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Personal Frivolous Website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Richard lettich"
+description              : &description "I figured I should have a website. Nothing is here yet"
+url                      : http://richardletti.ch # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "RichardLettich/RichardLettich.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 comments:
@@ -79,12 +79,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Richard Lettich"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "ETSU Math Student"
+  location         : "Johnson City, TN"
   email            :
   uri              :
   bitbucket        :
@@ -93,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "RichardLettich"
   google_plus      :
   keybase          :
   instagram        :
@@ -207,7 +205,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: Ramblings
     values:
       layout: single
       author_profile: true
@@ -216,7 +214,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: Assorted Work
     values:
       layout: single
       author_profile: true
@@ -225,7 +223,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: Empty
     values:
       layout: single
       author_profile: true
@@ -234,7 +232,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: Empy2
     values:
       layout: talk
       author_profile: true
