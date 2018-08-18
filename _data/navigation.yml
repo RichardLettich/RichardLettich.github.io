@@ -8,8 +8,8 @@ main:
     url: /work/
 
     
-  - title: "CV"
-    url: /cv/
+  - title: "Me"
+    url: /me/
     
   - title: "Guide"
     url: /markdown/
