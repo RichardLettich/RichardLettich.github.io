@@ -1,0 +1,13 @@
+---
+title: 'Math Test'
+date: 2018-08-20
+permalink: /posts/2012/08/math_test.md
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
+This is testing to see if latex equations workr
+
+$$ f(t,r) = \int_{0}^{t} rv(t) dt = rv_0 \int_{0}^{t} 2^{\frac{(1-r) t}{k}} dt = \frac{rv_0k (2^{\frac{(1-r) t}{k}} - 1)}{(1-r) \ln 2} $$
