@@ -7,7 +7,6 @@ tags:
 ---
 
 Learning about derivatives in Calculus I, I was really questioning why the power rule ‘worked’. Why is
-Learning about derivatives in Calculus I, I was really questioning why the power rule ‘worked’. Why is
 
 $$\frac{d}{dx}(x^3) = 3x^2$$?
 
