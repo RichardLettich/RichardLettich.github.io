@@ -44,7 +44,7 @@ $$ = x^2$$
 
 So our derivative would seemingly be $\color{orange}{x^2}$, as that's our coefficient of $x$.
 
-We know that's not correct, and the derivative of $x^3$ is actually $3x^2$. Why? *It’s because we’re not increasing one $x$ by one, but instead we’re increasing every $x$ by one. We have three $x$’s, and each of their coefficients are $x^2$ (the other two $x$’s).*
+We know that's not correct, and the derivative of $x^3$ is actually $3x^2$. Why? **It’s because we’re not increasing one $x$ by one, but instead we’re increasing every $x$ by one. We have three $x$’s, and each of their coefficients are $x^2$ (the other two $x$’s).**
 
 In other words, we have (enumerating each *x* with subscripts)
 
