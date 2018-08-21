@@ -50,9 +50,9 @@ In other words, we have (enumerating each *x* with subscripts)
 
 $$ f(x) = \color{red}{ x_1} \color{black} \cdot \color{green}{x_2} \color{black} \cdot \color{blue}{ x_3}$$
 
-When we increase $\color{red} {x_1}$ by one, we have an additional ‘$\color{green}{x_2} \color{blue}{ x_3}$’ for the same way we had one more additional ‘2’ in our linear equation 2.
+When we increase $\color{red} {x_1}$ by one, we have an additional ‘$\color{green}{x_2} \color{blue}{ x_3}$’ for the same reason we had an additional ‘2’ in our linear equation 2.
 
-However, we are increasing all $x$’s in $f(x)$ by one, not just $\color{red}{x_1}$. The ‘coefficient’ of $\color{green}{x_2}$ is $\color{red}{x_1} \color{blue}{x_3}$. Likewise, the coefficients of $\color{blue}{x_3}$ is $\color{red}{ x_1} \color{green}{ x_2}$. In other words:
+However, we are increasing all $x$’s in $f(x)$ by one, not just $\color{red}{x_1}$. Since $\color{green}{x_2}$ is also being increased when we increase $x$ by one, it's the equivlent of it's coefficent of $\color{red}{x_1} \color{blue}{x_3}$ being added. Likewise, when $\color{blue}{x_3}$ increased by one, it's like adding $\color{red}{ x_1} \color{green}{ x_2}$. In other words:
 
 Coefficients of $\color{red}{x_1}$ :
 
@@ -69,7 +69,7 @@ Coefficients of $\color{blue}{x_3}$:
 
 
 
-Because we are increasing ***every*** $x$ by one, for every increase of 1 of $x$,  $f(x)$ is increased by every coefficient of every $x$
+Because we are increasing ***every*** $x$ by one, for every increase of 1 of $x$,  $f(x)$ is increased by the coefficient of every $x$ (even if that means the coeeficent is added multiple times)
 
 $$ \color{green}{ x_2} \color{blue}{x_3} \color{black} + \color{red}{x_1} \color{blue}{x_3} \color{black} + \color{red}{ x_1} \color{green}{x_2} $$
 
@@ -80,7 +80,7 @@ $$ 3x^2$$
 
 
 
-Other people have described it in a similar way, but I like descripton better. Hopefully this helps someone!
+Other people have described it in a similar way, but I like my descripton better. Hopefully this helps someone!
 
 If you want to ask a question, tell me why I'm wrong, or just discuss the weather feel free to email me: ```lastnamefirstinitial@etsu.edu```
 Fill in my last name and first initial obviously (to prevent spam).
