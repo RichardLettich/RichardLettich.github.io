@@ -40,11 +40,11 @@ However, this doesn’t tell us how to find the derivative of a power two or gre
 
 $$\frac{d}{dx} (x^3) = \frac{d}{dx} (x \cdot x \cdot x) = \frac{d}{dx} (\color{orange}{x^2} \cdot \color{black}x) $$
 
-$$ = x^2$$
+$$ = \color{orange}{x^2}$$
 
 So our derivative would seemingly be $\color{orange}{x^2}$, as that's our coefficient of $x$.
 
-We know that's not correct, and the derivative of $x^3$ is actually $3x^2$. Why? **It’s because we’re not increasing one $x$ by one, but instead we’re increasing every $x$ by one. We have three $x$’s, and each of their coefficients are $x^2$ (the other two $x$’s).**
+We know that's not correct, as the derivative of $x^3$ is actually $3x^2$. Why? **It’s because we’re not increasing one $x$ by one, but instead we’re increasing every $x$ by one. We have three $x$’s, and each of their coefficients are $x^2$ (the other two $x$’s).**
 
 In other words, we have (enumerating each *x* with subscripts)
 
@@ -52,7 +52,7 @@ $$ f(x) = \color{red}{ x_1} \color{black} \cdot \color{green}{x_2} \color{black}
 
 When we increase $\color{red} {x_1}$ by one, we have an additional ‘$\color{green}{x_2} \color{blue}{ x_3}$’ for the same reason we had an additional ‘2’ in our linear equation 2.
 
-However, we are increasing all $x$’s in $f(x)$ by one, not just $\color{red}{x_1}$. Since $\color{green}{x_2}$ is also being increased when we increase $x$ by one, it's the equivlent of it's coefficent of $\color{red}{x_1} \color{blue}{x_3}$ being added. Likewise, when $\color{blue}{x_3}$ increased by one, it's like adding $\color{red}{ x_1} \color{green}{ x_2}$. In other words:
+However, we are increasing all $x$’s in $f(x)$ by one, not just $\color{red}{x_1}$. Since $\color{green}{x_2}$ is also being increased when we increase $x$ by one, it's the equivalent of it's coefficent of $\color{red}{x_1} \color{blue}{x_3}$ being added. Likewise, when $\color{blue}{x_3}$ increased by one, it's like adding $\color{red}{ x_1} \color{green}{ x_2}$. In other words:
 
 Coefficients of $\color{red}{x_1}$ :
 
@@ -69,7 +69,7 @@ Coefficients of $\color{blue}{x_3}$:
 
 
 
-Because we are increasing ***every*** $x$ by one, for every increase of 1 of $x$,  $f(x)$ is increased by the coefficient of every $x$ (even if that means the coeeficent is added multiple times)
+Because we are increasing ***every*** $x$ by one, $f(x)$ is increased by the coefficient of every $x$ (and that means counting coefficents multiple times)
 
 $$ \color{green}{ x_2} \color{blue}{x_3} \color{black} + \color{red}{x_1} \color{blue}{x_3} \color{black} + \color{red}{ x_1} \color{green}{x_2} $$
 
