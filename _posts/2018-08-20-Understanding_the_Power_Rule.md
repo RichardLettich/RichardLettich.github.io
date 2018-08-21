@@ -3,7 +3,9 @@ title: 'Understanding the Power Rule'
 date: 2018-08-20
 permalink: /posts/2018/08/Understanding_the_Power_Rule/
 tags:
+
 ---
+
 Learning about derivatives in Calculus I, I was really questioning why the power rule ‘worked’. Why is
 Learning about derivatives in Calculus I, I was really questioning why the power rule ‘worked’. Why is
 
