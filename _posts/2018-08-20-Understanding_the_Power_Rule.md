@@ -1,12 +1,10 @@
 ---
-title: 'Math Test'
+title: 'Understanding the Power Rule'
 date: 2018-08-20
-permalink: /posts/2018/08/math_test/
+permalink: /posts/2018/08/Understanding_the_Power_Rule/
 tags:
-  - cool posts
-  - category1
-  - category2
 ---Learning about derivatives in Calculus I, I was really questioning why the power rule ‘worked’. Why is
+Learning about derivatives in Calculus I, I was really questioning why the power rule ‘worked’. Why is
 
 $$\frac{d}{dx}(x^3) = 3x^2$$?
 
@@ -80,6 +78,10 @@ $$ 3x^2$$
 
 
 
+Other people have described it in a similar way, but I like descripton better. Hopefully this helps someone!
+
+If you want to ask a question, tell me why I'm wrong, or just discuss the weather feel free to email me: ```lastnamefirstinitial@etsu.edu```
+Fill in my last name and first initial obviously (to prevent spam).
 
 
 
