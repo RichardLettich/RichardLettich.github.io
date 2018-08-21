@@ -14,7 +14,7 @@ $$\frac{d}{dx}(x^3) = 3x^2$$?
 
 $$\frac{d}{dx}(x^n) = nx^{n-1}$$?
 
-To answer this question let's start off with one of the easiest non-trivial derivative to find: one of a straight line -
+To answer this question let's start off with one of the easiest non-trivial derivatives to find: one of a straight line -
 
 $$y = \color{orange}m\color{black}x + b$$
 
