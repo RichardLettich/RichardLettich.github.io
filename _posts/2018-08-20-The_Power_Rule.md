@@ -1,7 +1,7 @@
 ---
-title: 'Understanding the Power Rule'
+title: 'Getting Intimate with The Power Rule'
 date: 2018-08-20
-permalink: /posts/2018/08/Understanding_the_Power_Rule/
+permalink: /posts/2018/08/The_Power_Rule/
 tags:
 
 ---
@@ -80,7 +80,7 @@ $$ 3x^2$$
 
 
 
-Other people have described it in a similar way, but I like my descripton better. Hopefully this helps someone!
+Other people have described it in a similar way, but I like my description better. Hopefully this helps someone!
 
 If you want to ask a question, tell me why I'm wrong, or just discuss the weather feel free to email me: ```lastnamefirstinitial@etsu.edu```
 Fill in my last name and first initial obviously (to prevent spam).
