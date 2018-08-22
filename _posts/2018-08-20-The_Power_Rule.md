@@ -1,5 +1,5 @@
 ---
-title: 'Getting Intimate with The Power Rule'
+title: 'Intuition in Calculus: Getting Intimate with The Power Rule'
 date: 2018-08-20
 permalink: /posts/2018/08/The_Power_Rule/
 tags:
